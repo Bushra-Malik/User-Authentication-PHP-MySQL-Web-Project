@@ -25,5 +25,5 @@ This repository hosts a PHP-based user authentication system integrated with MyS
 - Security: Password hashing (password_hash), session management
 - Data Access: PHP PDO (Prepared Statements)
 - Frontend: Bootstrap (HTML, CSS)
-- 
+
 Contributions are welcome to enhance features, security measures, or usability aspects of the system.
